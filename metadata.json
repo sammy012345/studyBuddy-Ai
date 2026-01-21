@@ -1,0 +1,7 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "An AI-powered study assistant for Indian students that explains concepts, solves problems, and highlights common mistakes in simple Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
